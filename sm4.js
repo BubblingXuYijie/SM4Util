@@ -678,4 +678,4 @@ const SM4Util = function () {
     }
 };
 
-export default SM4Util;
+export {SM4Util};

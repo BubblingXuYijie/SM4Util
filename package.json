@@ -1,6 +1,6 @@
 {
   "name": "sm4util",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "SM4对称加解密",
   "main": "sm4.js",
   "scripts": {
