@@ -8,6 +8,9 @@
   },
   "author": "XuYijie",
   "license": "ISC",
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com:BubblingXuYijie/SM4Util.git"
